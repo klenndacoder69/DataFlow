@@ -1,4 +1,5 @@
 # DataFlow
+<img width="1892" height="935" alt="image" src="https://github.com/user-attachments/assets/b7df340d-92db-41ec-8cff-4697b2963a24" />
 
 An ETL pipeline that ingests CVE data from the [NVD API](https://nvd.nist.gov/developers/vulnerabilities), persists it to PostgreSQL, and exposes it through the Django admin interface. Served in production via Gunicorn + Nginx.
 
